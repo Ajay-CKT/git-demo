@@ -1,0 +1,1 @@
+console.log("inside script 1 file");
